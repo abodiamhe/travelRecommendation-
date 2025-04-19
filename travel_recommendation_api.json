@@ -6,12 +6,12 @@
       "cities": [
         {
           "name": "Sydney, Australia",
-          "imageUrl": "./img/sydney.jpg",
+          "imageUrl": "https://abodiamhe.github.io/travelRecommendation-/img/sydney.jpg",
           "description": "A vibrant city known for its iconic landmarks like the Sydney Opera House and Sydney Harbour Bridge."
         },
         {
           "name": "Melbourne, Australia",
-          "imageUrl": "./img/Melbourne.jpg",
+          "imageUrl": "https://abodiamhe.github.io/travelRecommendation-/img/Melbourne.jpg",
           "description": "A cultural hub famous for its art, food, and diverse neighborhoods."
         }
       ]
@@ -22,12 +22,12 @@
       "cities": [
         {
           "name": "Tokyo, Japan",
-          "imageUrl": "./img/tokyo.jpg",
+          "imageUrl": "https://abodiamhe.github.io/travelRecommendation-/img/tokyo.jpg",
           "description": "A bustling metropolis blending tradition and modernity, famous for its cherry blossoms and rich culture."
         },
         {
           "name": "Kyoto, Japan",
-          "imageUrl": "./img/kyoto.jpg",
+          "imageUrl": "https://abodiamhe.github.io/travelRecommendation-/img/kyoto.jpg",
           "description": "Known for its historic temples, gardens, and traditional tea houses."
         }
       ]
@@ -38,12 +38,12 @@
       "cities": [
         {
           "name": "Rio de Janeiro, Brazil",
-          "imageUrl": "./img/Rio-de-janeiro.jpg",
+          "imageUrl": "https://abodiamhe.github.io/travelRecommendation-/img/Rio-de-janeiro.jpg",
           "description": "A lively city known for its stunning beaches, vibrant carnival celebrations, and iconic landmarks."
         },
         {
           "name": "São Paulo, Brazil",
-          "imageUrl": "./img/sao-paulo.jpg",
+          "imageUrl": "https://abodiamhe.github.io/travelRecommendation-/img/sao-paulo.jpg",
           "description": "The financial hub with diverse culture, arts, and a vibrant nightlife."
         }
       ]
@@ -53,13 +53,13 @@
     {
       "id": 1,
       "name": "Angkor Wat, Cambodia",
-      "imageUrl": "./img/angkor-wat.jpg",
+      "imageUrl": "https://abodiamhe.github.io/travelRecommendation-/img/angkor-wat.jpg",
       "description": "A UNESCO World Heritage site and the largest religious monument in the world."
     },
     {
       "id": 2,
       "name": "Taj Mahal, India",
-      "imageUrl": "./img/taj-mahal.jpg",
+      "imageUrl": "https://abodiamhe.github.io/travelRecommendation-/img/taj-mahal.jpg",
       "description": "An iconic symbol of love and a masterpiece of Mughal architecture."
     }
   ],
@@ -67,13 +67,13 @@
     {
       "id": 1,
       "name": "Bora Bora, French Polynesia",
-      "imageUrl": "./img/bora-bora.jpg",
+      "imageUrl": "https://abodiamhe.github.io/travelRecommendation-/img/bora-bora.jpg",
       "description": "An island known for its stunning turquoise waters and luxurious overwater bungalows."
     },
     {
       "id": 2,
       "name": "Copacabana Beach, Brazil",
-      "imageUrl": "./img/copacabana-beach.jpg",
+      "imageUrl": "https://abodiamhe.github.io/travelRecommendation-/img/copacabana-beach.jpg",
       "description": "A famous beach in Rio de Janeiro, Brazil, with a vibrant atmosphere and scenic views."
     }
   ]
