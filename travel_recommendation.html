@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="style.css" />
+    <title>TravelSmooth</title>
+  </head>
+  <body>
+    <nav class="nav">
+      <div class="logo">
+        <span>
+          <svg class="logo-icon">
+            <use xlink:href="img/sprite.svg#icon-aircraft"></use>
+          </svg>
+        </span>
+        <span> TravelSmooth </span>
+      </div>
+      <ul class="links">
+        <li><a class="link" href="travel_recommendation.html">Home</a></li>
+        <li><a class="link" href="about.html">About Us</a></li>
+        <li><a class="link" href="contact.html">Contact Us</a></li>
+      </ul>
+      <div class="search-container">
+        <input
+          type="text"
+          placeholder="Enter a destination or keyword"
+          form="search"
+          id="search"
+        />
+        <svg class="search-icon">
+          <use xlink:href="img/sprite.svg#icon-search"></use>
+        </svg>
+        <button class="cta" id="search-button">Search</button>
+        <button class="cta" id="clear-button">Clear</button>
+      </div>
+    </nav>
+    <section class="full-breed">
+      <div class="hero">
+        <h1 class="hero-heading">Explore dream destination</h1>
+        <p class="hero-description">
+          It encourages the exploration of unfamiliar territories, embracing
+          diverse cultures and landscapes, while pursuing the desired
+          destination that captivates the heart and ignites a sense of wonder.
+        </p>
+        <button class="cta hero-btc">Book Now</button>
+      </div>
+      <div class="socia-container">
+        <div class="line"></div>
+        <div class="socia">
+          <svg class="social-icon">
+            <use xlink:href="img/sprite.svg#icon-x"></use>
+          </svg>
+          <svg class="social-icon">
+            <use xlink:href="img/sprite.svg#icon-facebook"></use>
+          </svg>
+          <svg class="social-icon">
+            <use xlink:href="img/sprite.svg#icon-instagram"></use>
+          </svg>
+          <svg class="social-icon">
+            <use xlink:href="img/sprite.svg#icon-youtube"></use>
+          </svg>
+        </div>
+      </div>
+    </section>
+
+    <div class="result-container">
+      <!-- <div class="line-above"></div>
+      <div class="search-result">
+        <img class="search-result-image" src="/img/Angkor-Wat.jpg" alt="" />
+        <div class="search-result-description">
+          <h3>Hello word</h3>
+          <p>
+            encourages the exploration of unfamiliar territories, embracing
+            diverse cultures and landscapes, while pursuin
+          </p>
+          <button class="cta hero-btc">Visit</button>
+        </div>
+      </div> -->
+    </div>
+
+    <script src="./travel_recommendation.js"></script>
+  </body>
+</html>
