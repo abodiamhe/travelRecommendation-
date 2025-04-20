@@ -58,7 +58,7 @@ function wordPluralize(text) {
 }
 
 function displaySearch(element) {
-  search.value = "";
+  // search.value = "";
   const searchResult = document.createElement("div");
   searchResult.classList.add("search-result");
   searchResult.innerHTML = `
@@ -76,7 +76,7 @@ searchButton.addEventListener("click", userInput);
 clearButton.addEventListener("click", clearResult);
 
 document.addEventListener("keypress", (event) => {
-  event.preventDefault();
+  // event.preventDefault();
   if (event.key === "Enter") {
     searchButton.click();
   }
